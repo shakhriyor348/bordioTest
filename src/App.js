@@ -1,24 +1,31 @@
-import logo from './logo.svg';
-import './App.css';
+import styled from "styled-components";
+import Aside from "./components/Aside";
+import Navbar from "./components/Navbar";
+
+
+
+
+
+
+const AppBlock = styled.div`
+  display: flex;
+`
+
+const Wrapper = styled.div`
+  padding-left: 373px;
+`
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <>
+      <AppBlock>
+        <Aside />
+      </AppBlock>
+      <Wrapper>
+        <Navbar />
+      </Wrapper>
+
+    </>
   );
 }
 
