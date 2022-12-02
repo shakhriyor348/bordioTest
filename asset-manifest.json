@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/bordioTest/static/css/main.1aa60a1f.css",
+    "main.js": "/bordioTest/static/js/main.18fdecc4.js",
+    "static/media/tasks.svg": "/bordioTest/static/media/tasks.1760045b60757a8d163cea107c6dca58.svg",
+    "static/media/calendar.svg": "/bordioTest/static/media/calendar.ca0ba9c40f41b735fd6c2c89a4e27ee3.svg",
+    "static/media/notes.svg": "/bordioTest/static/media/notes.31538bc56e9921afb909e4b9ad577d08.svg",
+    "static/media/roadmap.svg": "/bordioTest/static/media/roadmap.c0b4e73255f364baa6db6612f20c401c.svg",
+    "static/media/search.svg": "/bordioTest/static/media/search.54c221a76707e4b41ac9c725449d512c.svg",
+    "static/media/files.svg": "/bordioTest/static/media/files.a330bc4fbe31bebffbc1f15c778cf5d2.svg",
+    "static/media/message.svg": "/bordioTest/static/media/message.b055bb4e210ececeb2bf58e353a86e38.svg",
+    "static/media/arrowSelect.svg": "/bordioTest/static/media/arrowSelect.e32171908de49a12ae34bda56c53907d.svg",
+    "static/media/arrow.svg": "/bordioTest/static/media/arrow.e5fab9fec31a32dd70bdf564356e2a99.svg",
+    "index.html": "/bordioTest/index.html",
+    "main.1aa60a1f.css.map": "/bordioTest/static/css/main.1aa60a1f.css.map",
+    "main.18fdecc4.js.map": "/bordioTest/static/js/main.18fdecc4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1aa60a1f.css",
+    "static/js/main.18fdecc4.js"
+  ]
+}
